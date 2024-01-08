@@ -1,3 +1,3 @@
 # inf122
-Bismarck Ricardo Valencia Mercado
-INF-122
+Nombre: Bismarck Ricardo Valencia Mercado
+Materia: INF-122
